@@ -1,2 +1,2 @@
-# HW
+# HWApparel
 HATEWORTHY Apparel
